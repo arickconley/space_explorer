@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#000"/>
+  <polygon points="440.32000000000005,256 112.64000000000001,122.88 194.56,256 112.64000000000001,389.12" fill="#0cc" stroke="#0ff" stroke-width="7.68"/>
+  <polygon points="358.4,256 266.24,215.04 266.24,296.96000000000004" fill="rgba(0,255,255,0.35)" stroke="#0ff" stroke-width="4.096"/>
+  <text x="256" y="450.56" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="51.2" fill="#0ff">GAVIN'S GAME</text>
+</svg>
